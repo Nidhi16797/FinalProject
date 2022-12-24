@@ -1,0 +1,34 @@
+.logo{
+    position:relative;
+    height: 40px;
+    width: 52px;
+    cursor: pointer;
+}
+.header-title{
+    position: relative;
+    left:25px;
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 32px;
+    color: #55b912;
+}
+.btnHead{
+    margin-left: 10px;
+}
+
+.active, .btnHead:hover{
+    color: #55b912;
+}
+
+hr{
+    margin: 0;
+}
+.prodLogo{
+    position: relative;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.form-control{
+    width:30%;
+    margin: 10px 0;
+}

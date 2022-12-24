@@ -1,0 +1,34 @@
+.logo{
+    position:relative;
+    top: 10px;
+    height: 80px;
+    width: 105px;
+    align-items: center;
+    
+}
+
+.header-title{
+    position: relative;
+    left:25px;
+    right: 25px;
+    font-family: "Comic Sans MS", Fantasy;
+    font-style: italic;
+    align-items: center;
+    font-size: 60px;
+    color: #55b912;
+}
+.btnMain{
+    
+    font-size: 20px;
+}
+.btnMain:hover{
+    color: #55b912;
+}
+.modal-footer button{
+    background-color: #55b912;
+    color:white
+}
+th{
+    color:#55b912;
+}
+
